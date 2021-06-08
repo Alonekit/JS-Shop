@@ -25,6 +25,7 @@ const rp = list => {
 }
 const init = () => rp(goods);
 window.onload = init
+1
 
 
 
